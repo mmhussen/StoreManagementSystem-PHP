@@ -1,0 +1,2 @@
+# StoreManagementSystem-PHP
+Store Management System is project which is developed using PHP as backend and HTML,CSS,Boostrap which is having following module 1.Admin Module 2.User Module In Admin Module there are some components like adding product respective with product category and their price and quantity. In Admin module admin can accept orders and cancel orders and many more feature. In User module user can order and book their product in advance .
